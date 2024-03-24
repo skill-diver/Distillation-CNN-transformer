@@ -1,0 +1,7 @@
+torch
+torchvision
+vit_pytorch
+tensorflow
+imutils
+opencv-python
+sklearn
